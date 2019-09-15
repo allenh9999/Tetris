@@ -1,17 +1,20 @@
 Tetris
 ======
+
+By Allen Ho <allenh9999@gmail.com>
+
 Created in Java
 
 There are 5 programs that run Tetris, and all of them work at the current moment
 
-#TetrisNewMechanics.java
+# TetrisNewMechanics.java
 ```console
 $ Tetris with mechanics that work the second you input them
 $ Has problems with multithreading and allocation of data
 $ No music
 ```
 
-#TetrisNewMechanicsSound.java
+# TetrisNewMechanicsSound.java
 ```console
 $ Tetris with mechanics that work the second you input them
 $ Has problems with multithreading and allocation of data
@@ -21,7 +24,7 @@ $ Place it into the project folder
 $ If you don't want to change the music file name the code for the filename is on line 53
 ```
 
-#TetrisOldMechanicsSound.java
+# TetrisOldMechanicsSound.java
 ```console
 $ Tetris with mechanics that update every frame
 $ Has a problem where inputs are not being read
@@ -31,7 +34,7 @@ $ Place it into the project folder
 $ If you don't want to change the music file name the code for the filename is on line 53
 ```
 
-#TetrisTesting.java or TetrisViewer.java
+# TetrisTesting.java or TetrisViewer.java
 ```console
 $ These are the same file, just was too lazy to put the exception on the .gitignore file
 $ I used two files, one for debugging
